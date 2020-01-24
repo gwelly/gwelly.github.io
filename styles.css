@@ -1,3 +1,39 @@
 body{
+    
     font-family: 'Karla', sans-serif;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top: 5%;
+}
+
+#nav{
+    float: right;
+    right: 10%;
+    top:5%;
+    position: fixed;
+}
+
+#name{
+    position: absolute;
+    top:5%;    
+    float: left;
+}
+
+img{
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+
+#profile{
+    margin-top: 5%
+}
+
+#nav ul {
+    list-style-type: none;
+    color: #C0C0C0C0;
+}
+
+#nav #selected{
+    color: black;
 }
