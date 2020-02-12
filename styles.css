@@ -15,9 +15,11 @@ body{
 
 #name{
     position: absolute;
-    top:5%;    
-    float: left;
-    position: fixed;
+    width: 260px;
+    height: 71px;
+    left: 74px;
+    top: 78px;
+    
 }
 
 img{
@@ -39,7 +41,7 @@ img{
     color: black;
 }
 
-.row {
+#row {
     display: flex;
     flex-wrap: wrap;
     padding: 0 4px;
@@ -55,3 +57,54 @@ img{
     margin-top: 8px;
     vertical-align: middle;
   }
+
+  #aaronback {
+    position: absolute;
+    width: 757px;
+    height: 511px;
+    left: 203px;
+    top: 620px;
+  }
+
+  #flogfit {
+    position: absolute;
+    width: 384px;
+    height: 575px;
+    left: 1356px;
+    top: 149px;
+  }
+
+  #analyn{
+    position: absolute;
+    width: 585px;
+    height: 866px;
+    left: 113px;
+    top: 1394px;
+  }
+
+  #c2fe{
+    position: absolute;
+    width: 629px;
+    height: 785px;
+    left: 1041px;
+    top: 1987px;
+  }
+
+  #tylerthecreator{
+    position: absolute;
+    width: 761px;
+    height: 508px;
+    left: 74px;
+    top: 2679px;
+  }
+
+  #sftunnel{
+    position: absolute;
+    width: 761px;
+    height: 508px;
+    left: 74px;
+    top: 2679px;
+  }
+
+  #background
+  
